@@ -15,14 +15,14 @@
 > ![R Shiny badge](https://img.shields.io/badge/R_Shiny-test?style=for-the-badge&color=447099)
 > ![Tidyverse badge](https://img.shields.io/badge/Tidyverse-badge?style=for-the-badge&logo=Tidyverse&color=1A162D)
 > ![Quarto badge](https://img.shields.io/badge/Quarto-badge?style=for-the-badge&logo=Quarto&color=81A9D7)
-> ![Reveal.js logo badge](https://img.shields.io/badge/reveal%20js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000)
+> ![Reveal.js logo badge](https://img.shields.io/badge/reveal%20js-000000?style=for-the-badge&logo=reveal.js&logoColor=white)
 > 
 > #### Set-up:
 > ![macOS badge](https://img.shields.io/badge/apple%20silicon-000000?style=for-the-badge&logo=apple&logoColor=white)
 > [![Zsh badge](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)](https://www.astho.org)
 > ![Arc browser badge ](https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white) <br>
 >![keebfront vanguard65 badge](https://img.shields.io/badge/keyboard-vanguard65-green?style=for-the-badge&labelColor=fcfaed&color=184432)
-> ![keebfront tactile doom switches badge](https://img.shields.io/badge/switches-tactile-green?style=for-the-badge&labelColor=434681&color=43817e)
+> ![keebfront tactile doom switches badge](https://img.shields.io/badge/switches-doom_tactile-green?style=for-the-badge&labelColor=434681&color=43817e)
 > 
 >#### Connect:
 > [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madocalder/)
