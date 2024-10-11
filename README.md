@@ -1,6 +1,19 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&duration=3000&pause=000&color=93D302&multiline=true&repeat=false&width=435&height=65&lines=Hello%2C+world!+;My+name+is+Madoc+Alder." alt="Hello, world! My name is Madoc Alder." /></a>
 
+    ✨ dynamic generalist
+    🎨 creative coder 
+    📊 data storyteller 
+    👨🏻‍💻 R shiny developer
+    🧶 community connector
+    🔮 research wizard
+    🛠️ problem solver
+   
+#### *Currently working at [ASTHO](https://www.astho.org/) to develop meaningful, interactive public health data products.[^1][^2]*
+
+[^1]: [**The ASTHO Profile Dashboard**](https://www.astho.org/profile) <br>
+[^2]: [**PHHS Block Grant Digital Story Suite**](https://www.astho.org/topic/story/phhs-block-grant/)
+
 > ####  **Languages:**
 > 
 > ![R logo badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
