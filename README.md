@@ -6,7 +6,7 @@
     📊 data storyteller 
     👨🏻‍💻 R shiny developer
     🧶 community connector
-    🔮 research wizard
+    🔮 information alchemist
     🛠️ problem solver
    
 #### *Currently working at [ASTHO](https://www.astho.org/) to develop meaningful, interactive public health data products.[^1][^2]*
