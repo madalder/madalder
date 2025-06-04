@@ -47,5 +47,7 @@
 <br>
 
 *Thanks for stopping by!*
+
 <br>
+
 ![Profile Hits Counter Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmadalder&label=&icon=github&color=%2337451c)
