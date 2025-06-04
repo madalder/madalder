@@ -31,7 +31,7 @@
 > ![Reveal.js logo badge](https://img.shields.io/badge/reveal%20js-000000?style=for-the-badge&logo=reveal.js&logoColor=white)
 > 
 > #### Set-up:
-> ![macOS badge](https://img.shields.io/badge/apple%20silicon-000000?style=for-the-badge&logo=apple&logoColor=white)
+> ![macOS badge](https://img.shields.io/badge/apple%20silicon%20M4-000000?style=for-the-badge&logo=apple&logoColor=white)
 > [![Zsh badge](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)](https://www.astho.org)
 > ![Arc browser badge ](https://img.shields.io/badge/Arc-1638FB?style=for-the-badge&logo=Arc&logoColor=white) <br>
 >![keebfront vanguard65 badge](https://img.shields.io/badge/keyboard-vanguard65-green?style=for-the-badge&labelColor=fcfaed&color=184432)
