@@ -48,5 +48,4 @@
 
 *Thanks for stopping by!*
 <br>
-![Profile hits counter badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{madalder}1212%2Fhit-counter)
-
+![Profile Hits Counter Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmadalder&label=&icon=github&color=%23c9ff66)
