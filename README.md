@@ -39,7 +39,7 @@
 > 
 >#### Connect:
 > [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madocalder/)
-> ![badge](https://img.shields.io/badge/Proton Mail-8b89cc.svg?style=for-the-badge&logo=ProtonMail&logoColor=ffffff&labelColor=8b89cc)(mailto:github.mushy790@passmail.net)
+> [![badge](https://img.shields.io/badge/Proton Mail-8b89cc.svg?style=for-the-badge&logo=ProtonMail&logoColor=ffffff&labelColor=8b89cc)](mailto:github.mushy790@passmail.net)
 
 
 
